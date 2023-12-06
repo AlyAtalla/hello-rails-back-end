@@ -60,7 +60,7 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [HELLO RAILS BACK_END] <a name="about-project"></a>
 
-**[HELLO RAILS BACK_END]** Hello Rails Backend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/fatima-najafi/hello-react-front-end
+**[HELLO RAILS BACK_END]** Hello Rails Backend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/AlyAtalla/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -128,7 +128,7 @@ To get a local copy up and running, follow these steps.
   - Navigate to where you want to paste the Repo folder;
   - Run the following commands
 ```
-git clone https://github.com/fatima-najafi/hello-rails-back-end.git
+git clone https://github.com/alyatalla/hello-rails-back-end.git
 cd Hello-Rails-Back-End
 ```
 
@@ -179,9 +179,8 @@ Example:
 
 👤 **Fatima Najafi**
 
-- GitHub: [@fatima-najafi](https://github.com/fatima-najafi)
-- Twitter: [@fatima-najafi](https://twitter.com/FatimaNajafi6)
-- LinkedIn: [@fatima-najafi](https://www.linkedin.com/in/fatima-najafi/)
+- GitHub: [@fatima-najafi](https://github.com/alyatalla)
+- LinkedIn: [@fatima-najafi](https://www.linkedin.com/in/alyatalla/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,7 +198,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AlyAtalla/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
