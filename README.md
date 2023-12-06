@@ -166,7 +166,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Fatima Najafi**
+👤 **Aly Atalla**
 
 - GitHub: [@fatima-najafi](https://github.com/alyatalla)
 - LinkedIn: [@fatima-najafi](https://www.linkedin.com/in/alyatalla/)
